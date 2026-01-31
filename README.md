@@ -37,8 +37,7 @@ It reduces manual care, prevents overwatering, and makes plant maintenance smart
 The enclosure is fully designed in CAD and 3D printed.  
 Electronics and wiring are integrated internally for a clean and compact design.
 
-## 📷 Project Images
-_Add images of the prototype here_
+
 
 ## 🎯 Use Cases
 - Home plants  
